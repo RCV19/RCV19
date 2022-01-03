@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RCV19
+- 👋 Hi, I’m Ravi
 - 👀 I’m interested in Full stack developer
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on Full stack developer
